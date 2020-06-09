@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ma02_20170938</string>
+    <string name="api_url">https://openapi.naver.com/v1/search/local.xml?display=10&amp;start=1&amp;sort=random&amp;query=</string>
+    <string name="client_id">hrzcSxuccCCF2tJ6U_DL</string>
+    <string name="client_secret">tMKzPPoZ14</string>
+    <string name="api_url2"> https://openapi.naver.com/v1/search/blog.xml?display=10&amp;start=1&amp;sort=sim&amp;query=</string>
+    <string name="googleapi_key">AIzaSyByVEttW_0M2BxQunUeDFddGgbrnsqaiZ8</string>
+</resources>
